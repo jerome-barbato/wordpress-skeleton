@@ -1,0 +1,11 @@
+.idea
+composer.lock
+package-lock.json
+
+###> metabolism/wordpress-bundle ###
+/public/uploads/*
+!/public/uploads/acf-thumbnails
+/public/edition
+/public/cache
+/public/wp-bundle
+###< metabolism/wordpress-bundle ###
