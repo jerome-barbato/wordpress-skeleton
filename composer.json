@@ -44,7 +44,8 @@
             "composer/installers": true,
             "symfony/flex": true,
             "metabolism/wordpress-core-installer": true,
-            "metabolism/package-actions": true
+            "metabolism/package-actions": true,
+            "symfony/runtime": true
         }
     },
     "autoload": {
